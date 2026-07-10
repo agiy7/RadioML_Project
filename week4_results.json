@@ -1,0 +1,8 @@
+{
+    "baseline_accuracy": 0.5057045221328735,
+    "week4_accuracy": 0.5634317994117737,
+    "improvement_percentage_points": 5.772727727890015,
+    "confidence_threshold": 0.6,
+    "flagged_percentage": 61.172727272727265,
+    "overfitting_gap_percentage_points": -0.9097576141357422
+}
